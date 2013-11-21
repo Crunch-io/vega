@@ -1,0 +1,17 @@
+{
+  "name": "vega",
+  "repo": "mnichols/vega",
+  "description": "vega - componentized",
+  "version": "1.3.3",
+  "keywords": [],
+  "dependencies": {
+    "mbostock/d3":"*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+    ,"vega.js"
+  ]
+}
