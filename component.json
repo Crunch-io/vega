@@ -6,6 +6,7 @@
   "keywords": [],
   "dependencies": {
     "mbostock/d3":"*"
+    ,"Crunch-io/topojson":"*"
   },
   "development": {},
   "license": "MIT",
