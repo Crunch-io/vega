@@ -34,8 +34,8 @@
   },
   "scripts": {
     "test": "node_modules/.bin/vows; echo"
-    ,"preinstall":"npm link ./canvas-shim.js"
-    ,"preupdate":"npm link ./canvas-shim.js"
+    ,"preinstall":"npm link ./canvas.js"
+    ,"preupdate":"npm link ./canvas.js"
   },
   "licenses": [
     {
