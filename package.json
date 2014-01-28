@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "d3": "3.2.4",
-    "canvas": "0.0.0",
+    "canvas": "1.0.3",
     "optimist": "0.6.0",
     "topojson": "1.0.0"
   },
@@ -34,8 +34,6 @@
   },
   "scripts": {
     "test": "node_modules/.bin/vows; echo"
-    ,"preinstall":"npm link ./canvas.js"
-    ,"preupdate":"npm link ./canvas.js"
   },
   "licenses": [
     {
